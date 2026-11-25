@@ -22,8 +22,8 @@
 
 <p align="center"><img src="assets/h04.svg" width="100%" alt="04 — Telemetry"></p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=100dirhams&show_icons=true&hide_border=true&bg_color=0a0a0c&title_color=ff2a3d&text_color=c9ccd2&icon_color=d4ff1e&ring_color=ff2a3d&rank_icon=github" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=100dirhams&layout=compact&hide_border=true&bg_color=0a0a0c&title_color=ff2a3d&text_color=c9ccd2" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=100dirhams&show_icons=true&hide_border=true&bg_color=0a0a0c&title_color=a259ff&text_color=c9ccd2&icon_color=d9c2ff&ring_color=a259ff&rank_icon=github" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=100dirhams&layout=compact&hide_border=true&bg_color=0a0a0c&title_color=a259ff&text_color=c9ccd2" alt="Top languages">
 </p>
 
 <p align="center"><img src="assets/footer.svg" width="100%" alt="End of transmission."></p>
